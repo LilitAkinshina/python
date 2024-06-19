@@ -1,4 +1,4 @@
-from lesson3.address import Address 
+from lesson3.address import Address
 from lesson3.mailing import Mailing
 
 to_address = Address('55555', 'Москва', 'Пушкина', "1", "6")
